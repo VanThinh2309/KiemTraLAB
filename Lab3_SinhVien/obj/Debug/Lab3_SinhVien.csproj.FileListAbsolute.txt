@@ -1,0 +1,29 @@
+D:\New folder\2411924_PhatTrienUngDungDesktop\Lab3_JSON_HuongDanThucHanh\Lab3_SinhVien\bin\Debug\Lab3_SinhVien.exe.config
+D:\New folder\2411924_PhatTrienUngDungDesktop\Lab3_JSON_HuongDanThucHanh\Lab3_SinhVien\bin\Debug\Lab3_SinhVien.exe
+D:\New folder\2411924_PhatTrienUngDungDesktop\Lab3_JSON_HuongDanThucHanh\Lab3_SinhVien\bin\Debug\Lab3_SinhVien.pdb
+D:\New folder\2411924_PhatTrienUngDungDesktop\Lab3_JSON_HuongDanThucHanh\Lab3_SinhVien\obj\Debug\Lab3_SinhVien.csproj.AssemblyReference.cache
+D:\New folder\2411924_PhatTrienUngDungDesktop\Lab3_JSON_HuongDanThucHanh\Lab3_SinhVien\obj\Debug\Lab3_SinhVien.Form1.resources
+D:\New folder\2411924_PhatTrienUngDungDesktop\Lab3_JSON_HuongDanThucHanh\Lab3_SinhVien\obj\Debug\Lab3_SinhVien.Properties.Resources.resources
+D:\New folder\2411924_PhatTrienUngDungDesktop\Lab3_JSON_HuongDanThucHanh\Lab3_SinhVien\obj\Debug\Lab3_SinhVien.csproj.GenerateResource.cache
+D:\New folder\2411924_PhatTrienUngDungDesktop\Lab3_JSON_HuongDanThucHanh\Lab3_SinhVien\obj\Debug\Lab3_SinhVien.csproj.CoreCompileInputs.cache
+D:\New folder\2411924_PhatTrienUngDungDesktop\Lab3_JSON_HuongDanThucHanh\Lab3_SinhVien\obj\Debug\Lab3_SinhVien.exe
+D:\New folder\2411924_PhatTrienUngDungDesktop\Lab3_JSON_HuongDanThucHanh\Lab3_SinhVien\obj\Debug\Lab3_SinhVien.pdb
+D:\New folder\2411924_PhatTrienUngDungDesktop\Lab3_JSON_HuongDanThucHanh\Lab3_SinhVien\obj\Debug\Lab3_SinhVien.exe.config
+D:\New folder\2411924_PhatTrienUngDungDesktop\Lab3_JSON_HuongDanThucHanh\Lab3_SinhVien\bin\Debug\Newtonsoft.Json.dll
+D:\New folder\2411924_PhatTrienUngDungDesktop\Lab3_JSON_HuongDanThucHanh\Lab3_SinhVien\bin\Debug\Newtonsoft.Json.xml
+D:\New folder\2411924_PhatTrienUngDungDesktop\Lab3_JSON_HuongDanThucHanh\Lab3_SinhVien\obj\Debug\Lab3_Sin.0FCF37D6.Up2Date
+D:\PTUDD\2411924_PhatTrienUngDungDesktop\Lab3_JSON_HuongDanThucHanh\Lab3_SinhVien\bin\Debug\Lab3_SinhVien.exe.config
+D:\PTUDD\2411924_PhatTrienUngDungDesktop\Lab3_JSON_HuongDanThucHanh\Lab3_SinhVien\bin\Debug\Lab3_SinhVien.exe
+D:\PTUDD\2411924_PhatTrienUngDungDesktop\Lab3_JSON_HuongDanThucHanh\Lab3_SinhVien\bin\Debug\Lab3_SinhVien.pdb
+D:\PTUDD\2411924_PhatTrienUngDungDesktop\Lab3_JSON_HuongDanThucHanh\Lab3_SinhVien\bin\Debug\Newtonsoft.Json.dll
+D:\PTUDD\2411924_PhatTrienUngDungDesktop\Lab3_JSON_HuongDanThucHanh\Lab3_SinhVien\bin\Debug\Newtonsoft.Json.xml
+D:\PTUDD\2411924_PhatTrienUngDungDesktop\Lab3_JSON_HuongDanThucHanh\Lab3_SinhVien\obj\Debug\Lab3_SinhVien.csproj.AssemblyReference.cache
+D:\PTUDD\2411924_PhatTrienUngDungDesktop\Lab3_JSON_HuongDanThucHanh\Lab3_SinhVien\obj\Debug\Lab3_SinhVien.exe.config
+D:\PTUDD\2411924_PhatTrienUngDungDesktop\Lab3_JSON_HuongDanThucHanh\Lab3_SinhVien\obj\Debug\Lab3_SinhVien.Form1.resources
+D:\PTUDD\2411924_PhatTrienUngDungDesktop\Lab3_JSON_HuongDanThucHanh\Lab3_SinhVien\obj\Debug\Lab3_SinhVien.Properties.Resources.resources
+D:\PTUDD\2411924_PhatTrienUngDungDesktop\Lab3_JSON_HuongDanThucHanh\Lab3_SinhVien\obj\Debug\Lab3_SinhVien.csproj.GenerateResource.cache
+D:\PTUDD\2411924_PhatTrienUngDungDesktop\Lab3_JSON_HuongDanThucHanh\Lab3_SinhVien\obj\Debug\Lab3_SinhVien.csproj.CoreCompileInputs.cache
+D:\PTUDD\2411924_PhatTrienUngDungDesktop\Lab3_JSON_HuongDanThucHanh\Lab3_SinhVien\obj\Debug\Lab3_Sin.0FCF37D6.Up2Date
+D:\PTUDD\2411924_PhatTrienUngDungDesktop\Lab3_JSON_HuongDanThucHanh\Lab3_SinhVien\obj\Debug\Lab3_SinhVien.exe
+D:\PTUDD\2411924_PhatTrienUngDungDesktop\Lab3_JSON_HuongDanThucHanh\Lab3_SinhVien\obj\Debug\Lab3_SinhVien.pdb
+D:\PTUDD\2411924_PhatTrienUngDungDesktop\Lab3_JSON_HuongDanThucHanh\Lab3_SinhVien\obj\Debug\Lab3_SinhVien.frmTimKiem.resources

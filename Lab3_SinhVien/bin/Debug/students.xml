@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSinhVien xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SinhVien>
+    <MSSV>4410101</MSSV>
+    <HoTenLot>Nguyễn Văn</HoTenLot>
+    <Ten>An</Ten>
+    <NgaySinh>2002-05-15T00:00:00</NgaySinh>
+    <Lop>CTK44</Lop>
+    <SoCMND>123456789</SoCMND>
+    <SoDT>0901-234-567</SoDT>
+    <DiaChi>1 Phù Đổng Thiên Vương, Đà Lạt</DiaChi>
+    <GioiTinh>true</GioiTinh>
+    <MonHocDangKy>
+      <string>Mạng máy tính</string>
+      <string>Lập trình CSDL</string>
+    </MonHocDangKy>
+  </SinhVien>
+  <SinhVien>
+    <MSSV>4410102</MSSV>
+    <HoTenLot>Trần Thị</HoTenLot>
+    <Ten>Bích</Ten>
+    <NgaySinh>2002-08-20T00:00:00</NgaySinh>
+    <Lop>CTK44</Lop>
+    <SoCMND>987654321</SoCMND>
+    <SoDT>0912345678</SoDT>
+    <DiaChi>25 Hai Bà Trưng, Đà Lạt</DiaChi>
+    <GioiTinh>false</GioiTinh>
+    <MonHocDangKy>
+      <string>Hệ điều hành</string>
+      <string>Đồ án cơ sở</string>
+    </MonHocDangKy>
+  </SinhVien>
+  <SinhVien>
+    <MSSV>4310103</MSSV>
+    <HoTenLot>Lê Hoàng</HoTenLot>
+    <Ten>Cường</Ten>
+    <NgaySinh>2001-11-02T00:00:00</NgaySinh>
+    <Lop>CTK43</Lop>
+    <SoCMND>456789123</SoCMND>
+    <SoDT>0987654321</SoDT>
+    <DiaChi>102 Bùi Thị Xuân, Đà Lạt</DiaChi>
+    <GioiTinh>true</GioiTinh>
+    <MonHocDangKy>
+      <string>Phương pháp NCKH</string>
+      <string>Lập trình mạng</string>
+    </MonHocDangKy>
+  </SinhVien>
+  <SinhVien>
+    <MSSV>4410104</MSSV>
+    <HoTenLot>Phạm Minh</HoTenLot>
+    <Ten>Dũng</Ten>
+    <NgaySinh>2002-01-10T00:00:00</NgaySinh>
+    <Lop>CTK44</Lop>
+    <SoCMND>321654987</SoCMND>
+    <SoDT>0933456789</SoDT>
+    <DiaChi>12 Phường 8, Đà Lạt</DiaChi>
+    <GioiTinh>true</GioiTinh>
+    <MonHocDangKy>
+      <string>An toàn và bảo mật hệ thống</string>
+      <string>Lập trình trên thiết bị di động</string>
+    </MonHocDangKy>
+  </SinhVien>
+  <SinhVien>
+    <MSSV>4510105</MSSV>
+    <HoTenLot>Võ Mỹ</HoTenLot>
+    <Ten>Duyên</Ten>
+    <NgaySinh>2003-12-05T00:00:00</NgaySinh>
+    <Lop>CTK45</Lop>
+    <SoCMND>654987321</SoCMND>
+    <SoDT>0978123456</SoDT>
+    <DiaChi>45 Trần Phú, Đà Lạt</DiaChi>
+    <GioiTinh>false</GioiTinh>
+    <MonHocDangKy>
+      <string>Mạng máy tính</string>
+      <string>Phương pháp NCKH</string>
+    </MonHocDangKy>
+  </SinhVien>
+</ArrayOfSinhVien>

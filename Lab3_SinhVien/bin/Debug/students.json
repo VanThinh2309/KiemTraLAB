@@ -1,0 +1,77 @@
+[
+  {
+    "MSSV": "4410101",
+    "HoTenLot": "Nguyễn Văn",
+    "Ten": "An",
+    "NgaySinh": "2002-05-15T00:00:00",
+    "Lop": "CTK44",
+    "SoCMND": "123456789",
+    "SoDT": "0901-234-567",
+    "DiaChi": "1 Phù Đổng Thiên Vương, Đà Lạt",
+    "GioiTinh": true,
+    "MonHocDangKy": [
+      "Mạng máy tính",
+      "Lập trình CSDL"
+    ]
+  },
+  {
+    "MSSV": "4410102",
+    "HoTenLot": "Trần Thị",
+    "Ten": "Bích",
+    "NgaySinh": "2002-08-20T00:00:00",
+    "Lop": "CTK44",
+    "SoCMND": "987654321",
+    "SoDT": "0912345678",
+    "DiaChi": "25 Hai Bà Trưng, Đà Lạt",
+    "GioiTinh": false,
+    "MonHocDangKy": [
+      "Hệ điều hành",
+      "Đồ án cơ sở"
+    ]
+  },
+  {
+    "MSSV": "4310103",
+    "HoTenLot": "Lê Hoàng",
+    "Ten": "Cường",
+    "NgaySinh": "2001-11-02T00:00:00",
+    "Lop": "CTK43",
+    "SoCMND": "456789123",
+    "SoDT": "0987654321",
+    "DiaChi": "102 Bùi Thị Xuân, Đà Lạt",
+    "GioiTinh": true,
+    "MonHocDangKy": [
+      "Phương pháp NCKH",
+      "Lập trình mạng"
+    ]
+  },
+  {
+    "MSSV": "4410104",
+    "HoTenLot": "Phạm Minh",
+    "Ten": "Dũng",
+    "NgaySinh": "2002-01-10T00:00:00",
+    "Lop": "CTK44",
+    "SoCMND": "321654987",
+    "SoDT": "0933456789",
+    "DiaChi": "12 Phường 8, Đà Lạt",
+    "GioiTinh": true,
+    "MonHocDangKy": [
+      "An toàn và bảo mật hệ thống",
+      "Lập trình trên thiết bị di động"
+    ]
+  },
+  {
+    "MSSV": "4510105",
+    "HoTenLot": "Võ Mỹ",
+    "Ten": "Duyên",
+    "NgaySinh": "2003-12-05T00:00:00",
+    "Lop": "CTK45",
+    "SoCMND": "654987321",
+    "SoDT": "0978123456",
+    "DiaChi": "45 Trần Phú, Đà Lạt",
+    "GioiTinh": false,
+    "MonHocDangKy": [
+      "Mạng máy tính",
+      "Phương pháp NCKH"
+    ]
+  }
+]

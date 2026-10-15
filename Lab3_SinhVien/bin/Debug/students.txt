@@ -1,0 +1,5 @@
+4410101|Nguyễn Văn|An|2002-05-15|CTK44|123456789|0901-234-567|1 Phù Đổng Thiên Vương, Đà Lạt|True|Mạng máy tính;Lập trình CSDL
+4410102|Trần Thị|Bích|2002-08-20|CTK44|987654321|0912345678|25 Hai Bà Trưng, Đà Lạt|False|Hệ điều hành;Đồ án cơ sở
+4310103|Lê Hoàng|Cường|2001-11-02|CTK43|456789123|0987654321|102 Bùi Thị Xuân, Đà Lạt|True|Phương pháp NCKH;Lập trình mạng
+4410104|Phạm Minh|Dũng|2002-01-10|CTK44|321654987|0933456789|12 Phường 8, Đà Lạt|True|An toàn và bảo mật hệ thống;Lập trình trên thiết bị di động
+4510105|Võ Mỹ|Duyên|2003-12-05|CTK45|654987321|0978123456|45 Trần Phú, Đà Lạt|False|Mạng máy tính;Phương pháp NCKH

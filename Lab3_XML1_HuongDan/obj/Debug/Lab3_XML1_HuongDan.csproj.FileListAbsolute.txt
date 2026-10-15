@@ -1,0 +1,8 @@
+D:\New folder\2411924_PhatTrienUngDungDesktop\Lab3_JSON_HuongDanThucHanh\Lab3_XML1_HuongDan\bin\Debug\Lab3_XML1_HuongDan.exe.config
+D:\New folder\2411924_PhatTrienUngDungDesktop\Lab3_JSON_HuongDanThucHanh\Lab3_XML1_HuongDan\bin\Debug\Lab3_XML1_HuongDan.exe
+D:\New folder\2411924_PhatTrienUngDungDesktop\Lab3_JSON_HuongDanThucHanh\Lab3_XML1_HuongDan\bin\Debug\Lab3_XML1_HuongDan.pdb
+D:\New folder\2411924_PhatTrienUngDungDesktop\Lab3_JSON_HuongDanThucHanh\Lab3_XML1_HuongDan\obj\Debug\Lab3_XML1_HuongDan.csproj.AssemblyReference.cache
+D:\New folder\2411924_PhatTrienUngDungDesktop\Lab3_JSON_HuongDanThucHanh\Lab3_XML1_HuongDan\obj\Debug\Lab3_XML1_HuongDan.csproj.CoreCompileInputs.cache
+D:\New folder\2411924_PhatTrienUngDungDesktop\Lab3_JSON_HuongDanThucHanh\Lab3_XML1_HuongDan\obj\Debug\Lab3_XML1_HuongDan.exe
+D:\New folder\2411924_PhatTrienUngDungDesktop\Lab3_JSON_HuongDanThucHanh\Lab3_XML1_HuongDan\obj\Debug\Lab3_XML1_HuongDan.pdb
+D:\New folder\2411924_PhatTrienUngDungDesktop\Lab3_JSON_HuongDanThucHanh\Lab3_XML1_HuongDan\obj\Debug\Lab3_XML1_HuongDan.exe.config

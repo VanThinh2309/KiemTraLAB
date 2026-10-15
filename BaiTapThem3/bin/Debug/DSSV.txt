@@ -1,0 +1,5 @@
+﻿2111001	Nguyễn Văn Ban	14/10/2003	Nam	CTK45	0901234567	2111001@dlu.edu.vn	Đà Lạt, Lâm Đồng	sv1.jpg
+2111002	Trần Thị Bích	20/10/2003	Nữ	CTK45	0912345678	2111002@dlu.edu.vn	Đức Trọng, Lâm Đồng	sv2.jpg
+2111003	Lê Hoàng Cường	08/02/2002	Nam	CTK44	0923456789	2111003@dlu.edu.vn	Nha Trang, Khánh Hòa	D:\PTUDD\2411924_PhatTrienUngDungDesktop\MyFORM\BaiTapThem3\bin\Debug\sv6.jpg
+2111004	Phạm Minh Dung	12/12/2003	Nữ	CTK45	0934567890	2111004@dlu.edu.vn	Bảo Lộc, Lâm Đồng	sv4.jpg
+2111005	Vũ Gia Ân	01/01/2003	Nam	CTK45	0945678901	2111005@dlu.edu.vn	Phan Thiết, Bình Thuận	sv5.jpg

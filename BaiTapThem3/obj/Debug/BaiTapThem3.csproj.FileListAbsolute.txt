@@ -1,0 +1,22 @@
+D:\New folder\2411924_PhatTrienUngDungDesktop\MyFORM\BaiTapThem3\bin\Debug\BaiTapThem3.exe.config
+D:\New folder\2411924_PhatTrienUngDungDesktop\MyFORM\BaiTapThem3\bin\Debug\BaiTapThem3.exe
+D:\New folder\2411924_PhatTrienUngDungDesktop\MyFORM\BaiTapThem3\bin\Debug\BaiTapThem3.pdb
+D:\New folder\2411924_PhatTrienUngDungDesktop\MyFORM\BaiTapThem3\obj\Debug\BaiTapThem3.csproj.AssemblyReference.cache
+D:\New folder\2411924_PhatTrienUngDungDesktop\MyFORM\BaiTapThem3\obj\Debug\BaiTapThem3.Properties.Resources.resources
+D:\New folder\2411924_PhatTrienUngDungDesktop\MyFORM\BaiTapThem3\obj\Debug\BaiTapThem3.csproj.GenerateResource.cache
+D:\New folder\2411924_PhatTrienUngDungDesktop\MyFORM\BaiTapThem3\obj\Debug\BaiTapThem3.csproj.CoreCompileInputs.cache
+D:\New folder\2411924_PhatTrienUngDungDesktop\MyFORM\BaiTapThem3\obj\Debug\BaiTapThem3.exe
+D:\New folder\2411924_PhatTrienUngDungDesktop\MyFORM\BaiTapThem3\obj\Debug\BaiTapThem3.pdb
+D:\New folder\2411924_PhatTrienUngDungDesktop\MyFORM\BaiTapThem3\obj\Debug\BaiTapThem3.exe.config
+D:\New folder\2411924_PhatTrienUngDungDesktop\MyFORM\BaiTapThem3\obj\Debug\BaiTapThem3.MainForm.resources
+D:\PTUDD\2411924_PhatTrienUngDungDesktop\MyFORM\BaiTapThem3\bin\Debug\BaiTapThem3.exe.config
+D:\PTUDD\2411924_PhatTrienUngDungDesktop\MyFORM\BaiTapThem3\bin\Debug\BaiTapThem3.exe
+D:\PTUDD\2411924_PhatTrienUngDungDesktop\MyFORM\BaiTapThem3\bin\Debug\BaiTapThem3.pdb
+D:\PTUDD\2411924_PhatTrienUngDungDesktop\MyFORM\BaiTapThem3\obj\Debug\BaiTapThem3.csproj.AssemblyReference.cache
+D:\PTUDD\2411924_PhatTrienUngDungDesktop\MyFORM\BaiTapThem3\obj\Debug\BaiTapThem3.exe.config
+D:\PTUDD\2411924_PhatTrienUngDungDesktop\MyFORM\BaiTapThem3\obj\Debug\BaiTapThem3.MainForm.resources
+D:\PTUDD\2411924_PhatTrienUngDungDesktop\MyFORM\BaiTapThem3\obj\Debug\BaiTapThem3.Properties.Resources.resources
+D:\PTUDD\2411924_PhatTrienUngDungDesktop\MyFORM\BaiTapThem3\obj\Debug\BaiTapThem3.csproj.GenerateResource.cache
+D:\PTUDD\2411924_PhatTrienUngDungDesktop\MyFORM\BaiTapThem3\obj\Debug\BaiTapThem3.csproj.CoreCompileInputs.cache
+D:\PTUDD\2411924_PhatTrienUngDungDesktop\MyFORM\BaiTapThem3\obj\Debug\BaiTapThem3.exe
+D:\PTUDD\2411924_PhatTrienUngDungDesktop\MyFORM\BaiTapThem3\obj\Debug\BaiTapThem3.pdb
